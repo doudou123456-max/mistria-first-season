@@ -587,6 +587,28 @@ a:hover {
   margin: 1rem 0;
 }
 
+.shot-grid figure {
+  margin: 0;
+  padding: 0.55rem;
+  border: 1px solid var(--line);
+  border-radius: 0.45rem;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.shot-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.3rem;
+  background: #dfe8ec;
+}
+
+.shot-grid figcaption {
+  margin: 0.45rem 0 0;
+  font-size: 0.86rem;
+  color: var(--mute);
+  line-height: 1.45;
+}
+
 @media (min-width: 700px) {
   .shot-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
