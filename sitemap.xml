@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mistriafirstseason.com/</loc><lastmod>2026-09-09</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://mistriafirstseason.com/</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://mistriafirstseason.com/about.html</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://mistriafirstseason.com/privacy.html</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://mistriafirstseason.com/contact.html</loc><lastmod>2026-09-09</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://mistriafirstseason.com/guides/first-season.html</loc><lastmod>2026-09-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://mistriafirstseason.com/guides/early-money.html</loc><lastmod>2026-09-09</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/first-season.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/early-money.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/morning-routine.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/farm-clearing.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/watering-crops.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/spring-crops.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/foraging-routes.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/fishing-basics.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/mines-depth.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/tool-upgrades.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/inventory-chests.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/early-energy.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/town-restoration.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/shop-days.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/festivals.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/gifting-basics.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/romance-pace.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/animals-start.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/cooking-basics.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/crafting-basics.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/museum-donations.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/rainy-day.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/summer-start.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/fall-start.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mistriafirstseason.com/guides/winter-basics.html</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
